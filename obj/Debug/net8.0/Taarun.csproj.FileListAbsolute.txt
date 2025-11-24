@@ -1,0 +1,14 @@
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\bin\Debug\net8.0\Taarun.exe
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\bin\Debug\net8.0\Taarun.deps.json
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\bin\Debug\net8.0\Taarun.runtimeconfig.json
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\bin\Debug\net8.0\Taarun.dll
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\bin\Debug\net8.0\Taarun.pdb
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\obj\Debug\net8.0\Taarun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\obj\Debug\net8.0\Taarun.AssemblyInfoInputs.cache
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\obj\Debug\net8.0\Taarun.AssemblyInfo.cs
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\obj\Debug\net8.0\Taarun.csproj.CoreCompileInputs.cache
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\obj\Debug\net8.0\Taarun.dll
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\obj\Debug\net8.0\refint\Taarun.dll
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\obj\Debug\net8.0\Taarun.pdb
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\obj\Debug\net8.0\Taarun.genruntimeconfig.cache
+C:\Users\Taarunraj\Desktop\Lets_.Net\Taarun\obj\Debug\net8.0\ref\Taarun.dll
